@@ -1,2 +1,2 @@
-modele.pkl
-retail_store_inventory.csv
+*.pkl
+*.csv
