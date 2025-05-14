@@ -1,2 +1,5 @@
 *.pkl
 *.csv
+*.h5
+*.keras
+test.ipynb
